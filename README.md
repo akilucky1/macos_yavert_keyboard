@@ -1,8 +1,13 @@
 # ЯВЕРТЫ раскладка для macOS
 keyboard layout Russian YaVerTy
-Аналог раскладки клавиатуры от winrus "yaWert" для Windows
+Аналог раскладки клавиатуры от winrus "yaWert" для Windows только тут на МакОС
+Переходя на Mac с Windows, если используете раскладку яверты, оказалось, что готовой нет, заняло 4 часа сделать свою. 
 
-Для установки конкретному пользователю, скопируйте файл "Russian YaVertY2.bundle" в директорию "/Users/имя_пользователя/Library/Keyboard Layouts"
+Для установки 
 
-Для установки всем пользователям на компьютере, скопируйте файл "Russian YaVertY2.bundle" в директорию "/Library/Keyboard Layouts"
+1. git clone репозиторий в любое место,
+2. Конкретному пользователю, скопируйте "Russian YaVertY2.bundle" в директорию "/Users/имя_пользователя/Library/Keyboard Layouts"
+3. Всем пользователям на компьютере, скопируйте файл "Russian YaVertY2.bundle" в директорию "/Library/Keyboard Layouts"
+4. Перезагрузите ваш Мак, в списке Русских раскладок появится 'Russian 5', выбирайте и пользуйтесь
+
 
